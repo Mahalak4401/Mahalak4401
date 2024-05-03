@@ -14,6 +14,8 @@
 
 - 💭 Ask me about **Data Science!**
 
+- 👩 Portfolio [https://mahalak-4401.my.canva.site/beige-brown-monotone-sales-marketing-resume-website](https://mahalak-4401.my.canva.site/beige-brown-monotone-sales-marketing-resume-website)
+
 - 📫 Reach me on **mahalakshmi.s4401@gmail.com**
 
 - ⚡🌜 Fun fact : **love blowing bubbles on a windy day!😜**
