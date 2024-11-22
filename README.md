@@ -12,7 +12,7 @@
 <b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
 
-🚀 <h4>What I Do?</h4>
+ <h4>🚀 What I Do?</h4>
  
  🔍 Explore datasets to uncover hidden patterns and trends
  <br>
