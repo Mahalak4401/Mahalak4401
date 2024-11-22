@@ -10,8 +10,8 @@ I specialize in turning raw data into meaningful stories that drive decision-mak
 
 🚀 **What I Do*
 
-🔍 Explore datasets to uncover hidden patterns and trends 
-📊 Create interactive dashboards for insightful visual storytelling 
-🛠️ Automate workflows to enhance efficiency and accuracy 
-📈 Use data to guide strategic decision-making</p>
+-- 🔍 Explore datasets to uncover hidden patterns and trends 
+-- 📊 Create interactive dashboards for insightful visual storytelling 
+-- 🛠️ Automate workflows to enhance efficiency and accuracy 
+-- 📈 Use data to guide strategic decision-making</p>
 
