@@ -13,7 +13,7 @@
 <br>
 
 🚀 <b>What I Do?</b>
- <hr style="height: 1px; border: none; background-color: black;">
+ <hr style="height: 0px; border: none; background-color: black;">
  🔍 Explore datasets to uncover hidden patterns and trends
  <br>
  📊 Create interactive dashboards for insightful visual storytelling
