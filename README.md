@@ -14,8 +14,11 @@
 
 🚀 <b><i>What I Do</i></b>
 
- 🔍 Explore datasets to uncover hidden patterns and trends 
- 📊 Create interactive dashboards for insightful visual storytelling 
+ 🔍 Explore datasets to uncover hidden patterns and trends
+ <br>
+ 📊 Create interactive dashboards for insightful visual storytelling
+ <br> 
  🛠️ Automate workflows to enhance efficiency and accuracy 
+ <br>
  📈 Use data to guide strategic decision-making</p>
 
