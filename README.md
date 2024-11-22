@@ -13,7 +13,7 @@
 <br>
 
 🚀 <b>What I Do?</b>
- <hr style="height: 0px; border: none; background-color: black;">
+ 
  🔍 Explore datasets to uncover hidden patterns and trends
  <br>
  📊 Create interactive dashboards for insightful visual storytelling
@@ -22,7 +22,7 @@
  <br>
  📈 Use data to guide strategic decision-making</p>
 <br>
-<hr> <!-- Thin horizontal line -->
+
 <h3 align="left">Technologies Used:</h3>
 <p align="left">
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
@@ -41,7 +41,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30"/> </a>
 </p>
-
+<br>
+<h4>Certifications :</h4>
+<a href="https://codebasics.io/certificate/CB-50-414127">SQL Beginner to Advanced Data Professional</a>(Nov 2024) from codebasics
 
 <h4>Connect with me :</h4>
     &nbsp;&nbsp;&nbsp;  ● Linkedin : <b><a href="https://www.linkedin.com/in/mahalakshmi- 
