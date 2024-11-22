@@ -31,7 +31,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://iconscout.com/icons/excel"  target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="Excel" width="23" height="25"/> </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="23" height="30"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="30"/> </a>
 &nbsp;&nbsp;&nbsp;
