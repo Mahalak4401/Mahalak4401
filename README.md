@@ -44,9 +44,9 @@
 
 
 <h4>Connect with me :</h4>
-- Linkedin : <a href="https://www.linkedin.com/in/mahalakshmi- 
-                       senthilkumar04/">mahalakshmi-senthilkumar04</a>
+- Linkedin : <b><a href="https://www.linkedin.com/in/mahalakshmi- 
+                       senthilkumar04/">mahalakshmi-senthilkumar04</a></b>
 
-- Medium : [@mahalak4401](@mahalak4401)
+- Medium : **[@mahalak4401](@mahalak4401)**
 
 - E-mail : **mahalakshmi.s4401@gmail.com**
