@@ -7,9 +7,9 @@
 
   I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-<p><h6>Tools:</h6> Power BI, Excel, MySQL, Python</p>
+<b>Tools:</b> Power BI, Excel, MySQL, Python
 <br>
-<h6>Techniques:</h6> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
+<b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
 
 🚀 <h6>What I Do?</h6>
@@ -43,7 +43,7 @@
 </p>
 <br>
 
-<h4>Certifications :</h4>
+<h6>Certifications :</h6>
 <p>Explore the credentials that validate my expertise and skills:</p>
      <h5>&nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</h5>
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></font></i></h6>
@@ -53,7 +53,7 @@
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></h6>
 <br>
 
-<h4>Connect with me :</h4>
+<h6>Connect with me :</h6>
     &nbsp;&nbsp;&nbsp;  ● Linkedin : <b><a href="https://www.linkedin.com/in/mahalakshmi- 
                        senthilkumar04/">mahalakshmi-senthilkumar04</a></b>
 
