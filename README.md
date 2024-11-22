@@ -7,7 +7,7 @@
 
   I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-<h6>Tools:</h6> Power BI, Excel, MySQL, Python
+<p><h6>Tools:</h6> Power BI, Excel, MySQL, Python</p>
 <br>
 <h6>Techniques:</h6> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
