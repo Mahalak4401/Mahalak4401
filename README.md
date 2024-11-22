@@ -1,6 +1,6 @@
 
 
-<h3> Welcome to my Data Analyst Portfolio📊 </h3>
+<h3> Welcome to my Data Analyst Portfolio 📊 </h3>
 
 <p> I am a passionate Data Analyst with a <b>Master's degree</b> in Data Analytics. While I’m a fresher in the professional world, I have honed my skills through <b>hands-on projects</b> that explore real-world datasets and provide actionable insights.  
 <br>
