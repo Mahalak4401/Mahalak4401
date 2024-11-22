@@ -50,7 +50,7 @@
      <p> &nbsp;&nbsp;&nbsp;● Power BI Data Analytics for all Levels 2.0</p> 
      <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Oct 2024 | <a href="https://codebasics.io/certificate/CB-49-414127">View Credential</a></i></p>
      <h5> &nbsp;&nbsp;&nbsp;● Excel - Mother of Business Intelligence </h5>
-     <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font size=1>Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></font></p>
+     <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></h6>
 <br>
 
 <h4>Connect with me :</h4>
