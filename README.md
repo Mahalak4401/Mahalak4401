@@ -45,7 +45,7 @@
 
 <h4>Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
-    &nbsp;&nbsp;&nbsp; <p>● SQL Beginner to Advanced Data Professional</p> 
+     <p> &nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</p> 
 <p><i>Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></i></p>
 
 <h4>Connect with me :</h4>
