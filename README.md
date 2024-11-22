@@ -28,5 +28,6 @@
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-Query-Colored.png" width="23" height="25"/> </a>
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="45" height="29"/> </a>
+<a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" height="29"/> </a>
 </p>
 
