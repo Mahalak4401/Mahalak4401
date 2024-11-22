@@ -62,7 +62,4 @@
 - E-mail : mahalakshmi.s4401@gmail.com
 
 
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" style="margin-left: 10px;">
-    <h3 style="margin: 0;">Welcome to my Data Analyst Portfolio 📊</h3>
-</div>
+
