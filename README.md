@@ -12,7 +12,7 @@
 <b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
 
-🚀 <h6>What I Do?</h6>
+🚀 <h4>What I Do?</h4>
  
  🔍 Explore datasets to uncover hidden patterns and trends
  <br>
@@ -23,7 +23,7 @@
  📈 Use data to guide strategic decision-making</p>
 <br>
 
-<h6 align="left">Technologies Used:</h6>
+<h4 align="left">Technologies Used:</h4>
 <p align="left">
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
 &nbsp;&nbsp;&nbsp;
@@ -43,7 +43,7 @@
 </p>
 <br>
 
-<h6>Certifications :</h6>
+<h4>Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
      <h5>&nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</h5>
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></font></i></h6>
@@ -53,7 +53,7 @@
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></h6>
 <br>
 
-<h6>Connect with me :</h6>
+<h4>Connect with me :</h4>
     &nbsp;&nbsp;&nbsp;  ● Linkedin : <b><a href="https://www.linkedin.com/in/mahalakshmi- 
                        senthilkumar04/">mahalakshmi-senthilkumar04</a></b>
 
