@@ -7,12 +7,12 @@
 
   I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-<b>Tools:</b> Power BI, Excel, MySQL, Python
+<h6>Tools:</h6> Power BI, Excel, MySQL, Python
 <br>
-<b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
+<h6>Techniques:</h6> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
 
-🚀 <b>What I Do?</b>
+🚀 <h6>What I Do?</h6>
  
  🔍 Explore datasets to uncover hidden patterns and trends
  <br>
@@ -23,7 +23,7 @@
  📈 Use data to guide strategic decision-making</p>
 <br>
 
-<h3 align="left">Technologies Used:</h3>
+<h6 align="left">Technologies Used:</h6>
 <p align="left">
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
 &nbsp;&nbsp;&nbsp;
