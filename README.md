@@ -42,8 +42,11 @@
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30"/> </a>
 </p>
 <br>
+
 <h4>Certifications :</h4>
-<a href="https://codebasics.io/certificate/CB-50-414127">SQL Beginner to Advanced Data Professional</a>(Nov 2024) from codebasics
+<p>Explore the credentials that validate my expertise and skills:</p>
+<p>SQL Beginner to Advanced Data Professional</p> 
+<p><i>Issues by : Codebasics|Completed:Nov 2024| <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></i></p>
 
 <h4>Connect with me :</h4>
     &nbsp;&nbsp;&nbsp;  ● Linkedin : <b><a href="https://www.linkedin.com/in/mahalakshmi- 
