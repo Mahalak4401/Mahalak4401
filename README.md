@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 📊
 
-<!--
-**Mahalak4401/Mahalak4401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Data Analyst | Curious Mind, Analytical Soul </h1>
 
-Here are some ideas to get you started:
+<p> I am a passionate Data Analyst with a **Master's degree** in Data Analytics. While I’m a fresher in the professional world, I have honed my skills through **hands-on projects** that explore real-world datasets and provide actionable insights.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:  
+**Tools:** Power BI, Excel, MySQL, Python 
+**Techniques:** Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
+
+🚀 **What I Do*
+
+🔍 Explore datasets to uncover hidden patterns and trends 
+📊 Create interactive dashboards for insightful visual storytelling 
+🛠️ Automate workflows to enhance efficiency and accuracy 
+📈 Use data to guide strategic decision-making</p>
+
