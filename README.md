@@ -51,10 +51,8 @@
 - 📫 E-mail : **mahalakshmi.s4401@gmail.com**
 
 <h4>Connect with me :</h4>
-- Linkedin : [mahalakshmi-senthilkumar.04](mahalakshmi-senthilkumar.04)
+- Linkedin : [@mahalakshmi-senthilkumar.04](@mahalakshmi-senthilkumar.04)
 
 - Medium : [@mahalak4401](@mahalak4401)
-
-- 💬 Ask me about **Data Science**
 
 - E-mail : **mahalakshmi.s4401@gmail.com**
