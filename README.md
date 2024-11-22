@@ -45,8 +45,8 @@
 
 <h4>Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
-     <p> &nbsp;&nbsp;&nbsp;● <h5>SQL Beginner to Advanced Data Professional</h5></p> 
-     <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font size=1>Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></i></font></p>
+     <p> &nbsp;&nbsp;&nbsp;<h5>● SQL Beginner to Advanced Data Professional</h5></p> 
+     <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font size=1><h6>Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></h6></i></font></p>
      <p> &nbsp;&nbsp;&nbsp;● Power BI Data Analytics for all Levels 2.0</p> 
      <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <font size=1>Issues by : Codebasics | Completed:Oct 2024 | <a href="https://codebasics.io/certificate/CB-49-414127">View Credential</a></i></font></p>
      <p> &nbsp;&nbsp;&nbsp;● Excel - Mother of Business Intelligence</p> 
