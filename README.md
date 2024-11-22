@@ -22,7 +22,7 @@
  <br>
  📈 Use data to guide strategic decision-making</p>
 <br>
-
+<hr> <!-- Thin horizontal line -->
 <h3 align="left">Technologies Used:</h3>
 <p align="left">
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
