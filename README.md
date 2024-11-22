@@ -51,9 +51,8 @@
 - 📫 E-mail : **mahalakshmi.s4401@gmail.com**
 
 <h4>Connect with me :</h4>
-- Linkedin : [mahalakshmi-senthilkumar04](mahalakshmi-senthilkumar04)
+- Linkedin : <a href="https://www.linkedin.com/in/mahalakshmi-senthilkumar04/">mahalakshmi-senthilkumar04</a>
 
 - Medium : [@mahalak4401](@mahalak4401)
 
 - E-mail : **mahalakshmi.s4401@gmail.com**
-- - Linkedin : [https://www.linkedin.com/in/mahalakshmi-senthilkumar04/](https://www.linkedin.com/in/mahalakshmi-senthilkumar04/)
