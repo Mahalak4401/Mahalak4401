@@ -4,12 +4,11 @@
 
 <p> I am a passionate Data Analyst with a <b>Master's degree</b> in Data Analytics. While I’m a fresher in the professional world, I have honed my skills through <b>hands-on projects</b> that explore real-world datasets and provide actionable insights.  
 <br>
-I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
+
+  I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-  
 <b>Tools:</b> Power BI, Excel, MySQL, Python
 <br>
-
 <b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
 <br>
 
