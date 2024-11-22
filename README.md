@@ -45,10 +45,10 @@
 
 <h4>Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
-     <p> &nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</p>
-     <p ><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></font></i></p>
-     <p> &nbsp;&nbsp;&nbsp;● Power BI Data Analytics for all Levels 2.0</p> 
-     <p><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Oct 2024 | <a href="https://codebasics.io/certificate/CB-49-414127">View Credential</a></i></p>
+     <h5>&nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</h5>
+     <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></font></i></h6>
+     <h5> &nbsp;&nbsp;&nbsp;● Power BI Data Analytics for all Levels 2.0</h5> 
+     <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Oct 2024 | <a href="https://codebasics.io/certificate/CB-49-414127">View Credential</a></i></h6>
      <h5> &nbsp;&nbsp;&nbsp;● Excel - Mother of Business Intelligence </h5>
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></h6>
 <br>
