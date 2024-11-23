@@ -1,6 +1,6 @@
 
 
-<b> Welcome to my Data Analyst Portfolio! 📊<img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></b>
+<b> Welcome to my Data Analyst Portfolio! 📊<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"></b>
 <hr> <!-- Horizontal line -->
 <p> I am a passionate Data Analyst with a <b>Master's degree</b> in <b>Data Analytics</b>. While I’m a fresher in the professional world, I have honed my skills through <b>hands-on projects</b> that explore real-world datasets and provide actionable insights.  
 <br>
