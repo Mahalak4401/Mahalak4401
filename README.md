@@ -4,32 +4,35 @@
 <hr> <!-- Horizontal line -->
 <p> I am a passionate Data Analyst with a <b>Master's degree</b> in <b>Data Analytics</b>. While I’m a fresher in the professional world, I have honed my skills through <b>hands-on projects</b> that explore real-world datasets and provide actionable insights.  
 <br>
-
-🚀I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
+I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Tools:</b> Power BI, Excel, MySQL, Python
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Tools : </b> Power BI, Excel, MySQL, Python
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning, DAX, Power Query, Data Modelling.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Techniques : </b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning, DAX, Power Query, Data Modelling.
 <br>
+<p>Click the link to visit project portfolio website : <a href="https://mavenanalytics.io/profile/d8d1a300-0091-7006-89d0-615489b0beaa" target="_blank" title="Visit Example Website">Explore Projects Here</a></p>
 
-<h4 align="left">⚡ Technologies Used:</h4>
-<p align="left">
-<a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-Query-Colored.png" width="23" height="25"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://iconscout.com/icons/excel"  target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="Excel" width="23" height="25"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="23" height="30"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="23" height="30"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="45" height="29"/> </a>
-&nbsp;&nbsp;&nbsp;
-<a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30"/> </a>
-</p>
+
+<h4> 🌟 Portfolio Projects</h4>
+ 
+
+1. **📊 Business Insights 360**  
+   - **Technologies**: Power BI, SQL, Excel.  
+   - [Explore project Here!](https://mavenanalytics.io/project/23778)
+
+2. **🧙‍♂️ Harry Potter Script Analysis**   
+   - **Technologies**: Power BI, Excel.  
+   - [Explore Project Here!](https://mavenanalytics.io/project/23963)
+
+3. **🏨 AtliQ Hospitality Revenue Analysis**  
+   - **Technologies**: Power BI, Excel.  
+   - [View Project](https://github.com/yourusername/atliq-hospitality)
+
+4. **🏏 T20 Cricket Analysis - Python Webscrapping **  
+   - **Technologies**: Power BI, Excel.  
+   - [View Project](https://github.com/yourusername/atliq-hospitality)
+
+
 <br>
 <h4>📜 Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
