@@ -13,7 +13,7 @@ I specialize in turning raw data into meaningful stories that drive decision-mak
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics topics.
 
 ## Table of Contents : 
-- About
+- About<a href="Business Insights 360" target="_blank">Business Insights 360</a>
 - Portfolio Projects
 - Education
 - Certificates
