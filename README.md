@@ -5,25 +5,14 @@
 <p> I am a passionate Data Analyst with a <b>Master's degree</b> in <b>Data Analytics</b>. While I’m a fresher in the professional world, I have honed my skills through <b>hands-on projects</b> that explore real-world datasets and provide actionable insights.  
 <br>
 
-  I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
+🚀I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 <br> 
-<b>Tools:</b> Power BI, Excel, MySQL, Python
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Tools:</b> Power BI, Excel, MySQL, Python
 <br>
-<b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning 
-<br>
-
- <h4>🚀 What I Do?</h4>
-  
- 🔍 Explore datasets to uncover hidden patterns and trends
- <br>
- 📊 Create interactive dashboards for insightful visual storytelling
- <br> 
- 🛠️ Automate workflows to enhance efficiency and accuracy 
- <br>
- 📈 Use data to guide strategic decision-making</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🞄 <b>Techniques:</b> Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning, DAX, Power Query, Data Modelling.
 <br>
 
-<h4 align="left">Technologies Used:</h4>
+<h4 align="left">⚡ Technologies Used:</h4>
 <p align="left">
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/refs/heads/main/PNG/Power-BI.png" alt="powerbi" width="23" height="25"/> </a>
 &nbsp;&nbsp;&nbsp;
@@ -42,8 +31,7 @@
 <a href "https://iconscout.com/icons/powerbi-logo-in-yellow" target="_blank" rel="noreferrer"> <img src = "https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30"/> </a>
 </p>
 <br>
-
-<h4>Certifications :</h4>
+<h4>📜 Certifications :</h4>
 <p>Explore the credentials that validate my expertise and skills:</p>
      <h5>&nbsp;&nbsp;&nbsp;● SQL Beginner to Advanced Data Professional</h5>
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Nov 2024 | <a href="https://codebasics.io/certificate/CB-50-414127">View Credential</a></font></i></h6>
@@ -53,7 +41,7 @@
      <h6><i>  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Issues by : Codebasics | Completed:Aug 2024 | <a href="https://codebasics.io/certificate/CB-51-414127">View Credential</a></i></h6>
 <br>
 
-<h4>Connect with me :</h4>
+<h4>🤝 Connect with me :</h4>
     &nbsp;&nbsp;&nbsp;  ● Linkedin : <a href="https://www.linkedin.com/in/mahalakshmi- 
                        senthilkumar04/">mahalakshmi-senthilkumar04</a>
 
