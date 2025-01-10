@@ -1,6 +1,5 @@
 
-## Welcome to my Data Analyst Portfolio📊!
-
+## <P>Welcome to my Data Analyst Portfolio📊!
 
 
 ## 👩 About 
