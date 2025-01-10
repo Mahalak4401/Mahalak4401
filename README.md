@@ -9,7 +9,7 @@ I am a passionate Data Analyst with a Master's degree in Data Analytics. While I
 I specialize in turning raw data into meaningful stories that drive decision-making, with expertise in:
 
 - Tools : Power BI, Excel, MySQL, Python
-- Techniques : Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning, DAX, Power Query, Data Modelling.
+- Techniques : Data Visualization, Statistical Analysis, ETL Processes, Data Cleaning, DAX, Power Query, Data Modelling,Pivot Tables, Power Pivot.
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics topics.
 ## 📚 Table of Contents
