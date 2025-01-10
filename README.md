@@ -82,6 +82,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <p>Description - The project focused on analyzing a dataset of sales transactions for AtliQ Hardware, spanning multiple years. The dataset included product names, categories, sales quantities, unit prices, customer demographics, transaction dates, payment methods, and locations. The project involved loading and cleaning the data, performing exploratory data analysis (EDA), examining the relationship between sales performance and product categories.</p>
 
 ## 📜 Certificates
+- <p><a href="https://codebasics.io/certificate/CB-48-414127" target="_blank">Python : Beginner to Advanced for Data Professionals</a>(Jan 2025)(Codebasics)</p>
 - <p><a href="https://codebasics.io/certificate/CB-50-414127" target="_blank">SQL Beginner to Advanced for Data Professionals</a>(Nov 2024)(Codebasics)</p>
 - <p><a href="https://codebasics.io/certificate/CB-49-414127" target="_blank">Power BI Data Analytics for All Levels 3.0</a>(Oct 2024)(Codebasics)</p>
 - <p><a href="https://codebasics.io/download-certificate-pdf/CB-51-414127" target="_blank">Excel:Mother of Business Intelligence</a>(Aug 2024)(Codebasics)</p>
