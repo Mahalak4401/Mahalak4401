@@ -85,7 +85,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 - <p><a href="https://codebasics.io/certificate/CB-48-414127" target="_blank">Python : Beginner to Advanced for Data Professionals</a>(Jan 2025)(Codebasics)</p>
 - <p><a href="https://codebasics.io/certificate/CB-50-414127" target="_blank">SQL Beginner to Advanced for Data Professionals</a>(Nov 2024)(Codebasics)</p>
 - <p><a href="https://codebasics.io/certificate/CB-49-414127" target="_blank">Power BI Data Analytics for All Levels 3.0</a>(Oct 2024)(Codebasics)</p>
-- <p><a href="https://codebasics.io/download-certificate-pdf/CB-51-414127" target="_blank">Excel:Mother of Business Intelligence</a>(Aug 2024)(Codebasics)</p>
+- <p><a href="https://codebasics.io/certificate/CB-51-414127" target="_blank">Excel:Mother of Business Intelligence</a>(Aug 2024)(Codebasics)</p>
  
 ## 💬 Contacts
 - <p>LinkedIn : <a href="https://www.linkedin.com/in/mahalakshmi-senthilkumar04/" target="_blank">@Mahalakshmi-Senthilkumar</a></p>
