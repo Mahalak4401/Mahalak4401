@@ -12,7 +12,7 @@ I specialize in turning raw data into meaningful stories that drive decision-mak
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics topics.
 ## 📚 Table of Contents
- - <a href="https://github.com/Mahalak4401/Mahalak4401/blob/main/README.md#about" target="_blank">About</a>
+ - <a href="https://github.com/Mahalak4401/Mahalak4401/blob/main/README.md#-about" target="_blank">About</a>
  - <a href="https://github.com/Mahalak4401/Mahalak4401/blob/main/README.md#-portfolio-projects" target="_blank">Portfolio Projects</a>
    - <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/Business%20Insights%20360" target="_blank">Business insights 360</a>
    - <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/Harry%20Potter%20Script%20Analysis" target="_blank">Harry Potter Script Analysis</a>
