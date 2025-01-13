@@ -63,7 +63,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <p>Description- The Profit and Loss Report for AtliQ Hardware project revolves around designing a robust financial report that tracks key performance indicators (KPIs) such as revenue, cost of goods sold (COGS), gross profit, operating expenses, and net profit. By leveraging data visualization tools, this project offers actionable insights into the financial health of the organization. </p>
 
 <br>
-<h3> 🏏🔢 T20 Cricket World Cup</h3>
+<h3> 🏏🔢 T20 Cricket World Cup</h3> 
 <p>Code : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="T20 Cricket Analysis">T20 Cricket Analysis.ipynb</a></p>
 <p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
 <p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/T20%20Cricket%20World%20Cup" target="_blank">T20 Cricket Word Cup</a></p>
