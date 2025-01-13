@@ -55,7 +55,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <br>
 
 <h3> 📊💰 P & L Report for AtliQ Hardware </h3>
-<p>Project : <a href="https://onedrive.live.com/personal/411bbf8aa6a6d544/_layouts/15/Doc.aspx?resid=411BBF8AA6A6D544!s7f4ebb2c7fa445e2a3c60077b06709b4&cid=411bbf8aa6a6d544&migratedtospo=true&app=Excel" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
+<p>Project : <a href="https://onedrive.live.com/personal/411bbf8aa6a6d544/_layouts/15/Doc.aspx?resid=411BBF8AA6A6D544!s7f4ebb2c7fa445e2a3c60077b06709b4&cid=411bbf8aa6a6d544&migratedtospo=true&app=Excel" target="_blank" title="P & L Report">Dashboard</a></p>
 <p>Project Display : <a href="P & L Report for AtliQ Hardware" target="_blank">P & L Report</a></p>
 <p>Skills : Data Cleaning, Data Modelling, pivot Tables, Data Visualization, Excel Formulas, Power Pivot.
 <p>Technology : Microsoft Excel</p>
@@ -74,7 +74,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <br>
 
 <h3> 💻📋 AtliQ Hardware Retail Sales Insights </h3>
-<p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="AtliQ Hospitality Analysis">SQL Query</a></p>
+<p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="AtliQ Hardware Retail Sales">SQL Query</a></p>
 <p>Project Display : <a href="AtliQ Harware Sales" target="_blank">AtliQ Hardware Sales</a></p>
 <p>Skills : Data Cleaning, Exporatory Data Analysis(EDA), Entity Relationship Diagram(ERD), SQL Queries, Data Preparation.</p>
 <p>Technology : SQL, Excel</p>
