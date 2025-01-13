@@ -28,7 +28,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <br>
 <h3> 📊🔍 Business Insights 360 </h3>
 <p>Project - <a href="https://mavenanalytics.io/project/23778" target="_blank" title="Business Insights 360" >Dashboard</a></p>
-<p>Project Display : <a href="Business Insights 360" target="_blank">Business Insights 360</a></p>
+<p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/Business%20Insights%20360" target="_blank">Business Insights 360</a></p>
 <p>Skills : Data Cleaning, Data Collection, DAX, Data Modelling, Data Visualization</p> 
 <p>Technology : Power BI, SQL, Excel</p>
 <p>Focus on : AtliQ Hardware has experienced significant growth in recent years, resulting in a surge of data generated from various aspects of its operations. Initially, the company managed its analysis needs using Microsoft Excel. However, as the company expands the management decided to onboard a Data Analyst to provide a meaningful insights. </p>
@@ -36,7 +36,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 
 <h3> 🧙‍♂️⚡ Harry Potter Script Analysis </h3>
 <p>Project : <a href="https://mavenanalytics.io/project/23963" target="_blank" title="Harry Potter Script Analysis">Dashboard</a></p>
-<p>Project Display : <a href="Harry Potter Script Analysis" target="_blank">Harry Potter Script Analysis</a></p> 
+<p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/Harry%20Potter%20Script%20Analysis" target="_blank">Harry Potter Script Analysis</a></p> 
 <p>Skills : Data Cleaning, Text Analysis, Power Query, DAX, Data Modelling, Visualization</p>
 <p>Technology : Power BI, Excel</p>
 <p>Focus on : Analyzing Harry Potter movie scripts based on spells and questions can provide interesting insights about the storyline, character behavior, and plot progression.</p>
@@ -46,7 +46,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 
 <h3> 🏨🍽️ AtliQ Hospitality Insights </h3>
 <p>Project : <a href="https://mavenanalytics.io/project/24188" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
-<p>Project Display : <a href="AtliQ Hospitality Revenue Analysis" target="_blank">AtliQ Hospitality Revenue Analysis</a></p> 
+<p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/AtliQ%20Hospitality%20Revenue%20Analysis" target="_blank">AtliQ Hospitality Revenue Analysis</a></p> 
 <p>Skills : Power Query, Visualization, Data Cleaning, DAX, Data Modelling.
 <p>Technology : Power BI, Excel</p>
 <p>Focus on : This project centers on leveraging data analytics to optimize operations, enhance customer experiences, and improve financial performance for AtliQ Hospitality, a hotel chain operating in a competitive market. The focus is on integrating data from various operational, customer to create actionable insights and a centralized dashboard for informed decision-making.</p>
@@ -56,7 +56,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 
 <h3> 📊💰 P & L Report for AtliQ Hardware </h3>
 <p>Project : <a href="https://onedrive.live.com/personal/411bbf8aa6a6d544/_layouts/15/Doc.aspx?resid=411BBF8AA6A6D544!s7f4ebb2c7fa445e2a3c60077b06709b4&cid=411bbf8aa6a6d544&migratedtospo=true&app=Excel" target="_blank" title="P & L Report">Dashboard</a></p>
-<p>Project Display : <a href="P & L Report for AtliQ Hardware" target="_blank">P & L Report</a></p>
+<p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/P%20%26%20L%20Report%20for%20AtliQ%20Hardware" target="_blank">P & L Report</a></p>
 <p>Skills : Data Cleaning, Data Modelling, pivot Tables, Data Visualization, Excel Formulas, Power Pivot.
 <p>Technology : Microsoft Excel</p>
 <p>Focus on : The focus of this project is to develop a comprehensive Profit and Loss (P&L) Report for AtliQ Hardware, enabling the company to monitor its financial performance and make informed business decisions. The project aims to provide a detailed analysis of revenues, costs, and expenses to identify profitability trends, control costs, and optimize operations.</p>
@@ -66,7 +66,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <h3> 🏏🔢 T20 Cricket World Cup</h3>
 <p>Code : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="T20 Cricket Analysis">T20 Cricket Analysis.ipynb</a></p>
 <p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
-<p>Project Display : <a href="T20 Cricket World Cup" target="_blank">T20 Cricket Word Cup</a></p>
+<p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/T20%20Cricket%20World%20Cup" target="_blank">T20 Cricket Word Cup</a></p>
 <p>Skills : Web Scrapping, Data Cleaning, Exploratory Data Analysis(EDA), Detecting Data Anamolies</p>
 <p>Technology : Pandas, Power BI, BeautifulSoup</p>
 <p>Focus on :This project focuses on extracting, analyzing, and visualizing data from the T20 Cricket World Cup to uncover key insights and trends. By leveraging web scraping techniques in Python to gather tournament data and Power BI for interactive visualization, the project aims to provide a comprehensive overview of player performances, team statistics, and match outcomes.</p>
@@ -75,7 +75,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 
 <h3> 💻📋 AtliQ Hardware Retail Sales Insights </h3>
 <p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="AtliQ Hardware Retail Sales">SQL Query</a></p>
-<p>Project Display : <a href="AtliQ Harware Sales" target="_blank">AtliQ Hardware Sales</a></p>
+<p>Project Display : <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">AtliQ Hardware Sales</a></p>
 <p>Skills : Data Cleaning, Exporatory Data Analysis(EDA), Entity Relationship Diagram(ERD), SQL Queries, Data Preparation.</p>
 <p>Technology : SQL, Excel</p>
 <p><b>Focus on : </b>Finance & Sales View to provide revenue and performance analysis to deliver actionable insights.</p>
