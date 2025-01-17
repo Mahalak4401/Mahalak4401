@@ -12,7 +12,7 @@ I specialize in turning raw data into meaningful stories that drive decision-mak
 
 This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics topics.
 
-<p>My Resume in <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Mahalakshmi%20Data%20Analyst%20Resume.pdf" target="_blank" title="Resume" >pdf</a></p>
+<p>My Resume in <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/blob/main/Mahalakshmi_Data_Analyst_Resume.pdf" target="_blank" title="Resume" >pdf</a></p>
 
 <p>My Portfolio in <a href="https://codebasics.io/portfolio/Mahalakshmi-Senthilkumar" target="_blank" title="Portfolio" >Website</a></p> 
 
