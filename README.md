@@ -24,7 +24,7 @@ This repository serves to showcase my skills and as a platform to share my proje
    - <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/AtliQ%20Hospitality%20Revenue%20Analysis" target="_blank">AtliQ Hospitality Revenue Analysis</a>
    - <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/P%20%26%20L%20Report%20for%20AtliQ%20Hardware" target="_blank">P & L Report for AtliQ Hardware</a>
    - <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/T20%20Cricket%20World%20Cup" target="_blank">T20 Cricket World Cup</a>
-   - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">AtliQ Hardware Retail Sales Insights</a>
+   - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">Finance and Supply Chain Analytics</a>
 - <a href="https://github.com/Mahalak4401/Mahalak4401/blob/main/README.md#-certificates" target="_blank">Certificates</a>
 - <a href="https://github.com/Mahalak4401/Mahalak4401/blob/main/README.md#-contacts" target="_blank">Contacts</a>
 
@@ -83,7 +83,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <p>Project Display : <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">AtliQ Hardware Sales</a></p>
 <p>Skills : Data Cleaning, Exporatory Data Analysis(EDA), Entity Relationship Diagram(ERD), SQL Queries, Data Preparation.</p>
 <p>Technology : SQL, Excel</p>
-<p><b>Focus on : </b>Finance & Sales View to provide revenue and performance analysis to deliver actionable insights.</p>
+<p><b>Focus on : </b>Finance & Supply Chain View to provide revenue and performance analysis to deliver actionable insights.</p>
 <p>Description - The project focused on analyzing a dataset of sales transactions for AtliQ Hardware, spanning multiple years. The dataset included product names, categories, sales quantities, unit prices, customer demographics, transaction dates, payment methods, and locations. The project involved loading and cleaning the data, performing exploratory data analysis (EDA), examining the relationship between sales performance and product categories.</p>
 
 ## 📜 Certificates
