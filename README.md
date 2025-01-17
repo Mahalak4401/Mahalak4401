@@ -80,7 +80,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 
 <h3> 💻📋 Finance and Supply Chain Analysis </h3>
 <p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="Finance & Supply Chain">SQL Query</a></p>
-<p>Project Display : <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">AtliQ Hardware Sales</a></p>
+<p>Project Display : <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">Finance & Supply Chain</a></p>
 <p>Skills : Data Cleaning, Exporatory Data Analysis(EDA), Entity Relationship Diagram(ERD), SQL Queries, Data Preparation.</p>
 <p>Technology : SQL, Excel</p>
 <p><b>Focus on : </b>Finance & Supply Chain View to provide revenue and performance analysis to deliver actionable insights.</p>
