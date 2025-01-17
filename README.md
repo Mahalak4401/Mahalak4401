@@ -70,7 +70,7 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <br>
 <h3> 🏏🔢 T20 Cricket World Cup</h3> 
 <p>Code : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="T20 Cricket Analysis">T20 Cricket Analysis.ipynb</a></p>
-<p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="AtliQ Hospitality Analysis">Dashboard</a></p>
+<p>Visualization : <a href="https://mavenanalytics.io/project/24387" target="_blank" title="Dashboard">Dashboard</a></p>
 <p>Project Display : <a href="https://github.com/Mahalak4401/PowerBI_Portfolio_Projects/tree/main/T20%20Cricket%20World%20Cup" target="_blank">T20 Cricket Word Cup</a></p>
 <p>Skills : Web Scrapping, Data Cleaning, Exploratory Data Analysis(EDA), Detecting Data Anamolies</p>
 <p>Technology : Pandas, Power BI, BeautifulSoup</p>
@@ -78,8 +78,8 @@ A collection of dashboards and reports showcasing data analytics and visualizati
 <p>Description - The T20 Cricket World Cup Analysis project involves collecting real-time and historical data related to the tournament and presenting it through visually engaging dashboards. The primary objective is to analyze key metrics such as top run-scorers, highest wicket-takers, team performance, and match trends.</p>
 <br>
 
-<h3> 💻📋 AtliQ Hardware Retail Sales Insights </h3>
-<p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="AtliQ Hardware Retail Sales">SQL Query</a></p>
+<h3> 💻📋 Finance and Supply Chain Analysis </h3>
+<p>Project - <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank" title="Finance & Supply Chain">SQL Query</a></p>
 <p>Project Display : <a href="https://github.com/Mahalak4401/SQL_Portfolio_projects/tree/main/AtliQ%20Harware%20Sales" target="_blank">AtliQ Hardware Sales</a></p>
 <p>Skills : Data Cleaning, Exporatory Data Analysis(EDA), Entity Relationship Diagram(ERD), SQL Queries, Data Preparation.</p>
 <p>Technology : SQL, Excel</p>
